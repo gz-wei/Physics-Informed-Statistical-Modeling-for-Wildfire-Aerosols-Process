@@ -45,7 +45,7 @@ Function_Omega <- function(N){
 
 
 ###Name: Calculation the matrix F in the state-space model
-F <- function(N_rcr, N, Omega){
+Function_F <- function(N_rcr, N, Omega){
   Omega1 <- Omega$Omega1
   Omega2 <- Omega$Omega2
   sites_rc <- expand.grid(
@@ -225,9 +225,9 @@ M_id <- function(y){
 }
 
 
-###Name: Uniformly downsampling for raw dataset
+###Name: preprosessing the raw data 
+###Required functions: "M_id.R"
 obs_ccl2 <- function(y1, y2, F){
-  source(here::here("functions", "M_id.R"))
   T <- length(y1)
   F1t <- list()
   F2t <- list()
