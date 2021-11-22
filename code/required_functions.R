@@ -21,8 +21,8 @@ UDS <- function(datset, n.slt){
 }
 
 
-###Name: Generate the set of wavenumbers 
-Omega <- function(N){
+###Name: Generate the wavenumbe set
+Function_Omega <- function(N){
   Omega1 <- data.frame(
     k1 = c(0, 0, N/2, N/2),
     k2 = c(0, N/2, 0, N/2)
