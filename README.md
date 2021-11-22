@@ -1,1 +1,1 @@
-# gz-wei-Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Propagation
+# Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Propagation
