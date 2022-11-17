@@ -1,6 +1,6 @@
 # Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Propagation
 
-## Environments
+## Environment
 The codes have been testing on the following environment
 ```
 R version 4.2.1 (2022-06-23)
