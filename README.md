@@ -8,16 +8,16 @@ Platform: aarch64-apple-darwin20 (64-bit)
 Running under: macOS Monterey 12.5.1
 
 (packages required)
-ggplot2_3.3.6  
-tidyr_1.2.1
+bnstruct_1.0.12 
 expm_0.999-6
-MCMCpack_1.6-3  
+ggplot2_3.3.6  
 Rfast_2.0.6
-matrixStats_0.62.0 
-Matrix_1.5-1 
-tidyverse_1.3.2
 SpatialVx_1.0 
-bnstruct_1.0.12  
+tidyr_1.2.1
+tidyverse_1.3.2
+Matrix_1.5-1 
+matrixStats_0.62.0 
+MCMCpack_1.6-3  
 ncdf4_1.19
 ```
 
