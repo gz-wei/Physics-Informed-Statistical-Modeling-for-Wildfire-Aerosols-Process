@@ -66,7 +66,6 @@ F <- Function_F(N_r, N, Omega)  # the first input is the recovered pixels (usual
 dat_rc <- pmax(data.frame(s, dat = F%*%coef))
 
 # computation of G matrix without numerical integration 
-source(here::here("functions", "G_nit.R"))
 G <- G_nit(Omega)
 
 # visualize the simulated data stream
