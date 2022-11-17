@@ -324,7 +324,7 @@ for (n in c(20, 21, 24, 28, 29)){
   fit.M2 <- Gibbs_FFBS2(obs.ccl_tempt, G, m0, C0, N.sample_tempt)
   end_time <- Sys.time()
   fit.time <- as.numeric(end_time-start_time, units = "mins")
-  print(fit.time)
+  # print(fit.time)
   
   file.name.fit <- paste(c("fit.M2", as.character(n)), collapse=".")
   file.name.time <- paste(c("fit.M2.time", as.character(n)), collapse=".")
