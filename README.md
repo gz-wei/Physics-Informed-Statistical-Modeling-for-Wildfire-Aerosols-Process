@@ -29,6 +29,7 @@ The complete AOD data can be downloaded in the following way, and the sample AOD
 
 
 ## Usage  
-Codes are completed in R project. After cloning the repository, this project can be openned with the ```Project.Rproj``` file. ```util.R``` file contains the required functions that  
+- Codes are completed in R project. After cloning the repository, this project can be openned with the ```Project.Rproj``` file. 
+- ```util.R``` file contains the required functions that  
 
 ## Reproducibility
