@@ -7,6 +7,7 @@ R version 4.2.1 (2022-06-23)
 Platform: aarch64-apple-darwin20 (64-bit)
 Running under: macOS Monterey 12.5.1
 
+(packages required)
 ggplot2_3.3.6  
 tidyr_1.2.1
 expm_0.999-6
