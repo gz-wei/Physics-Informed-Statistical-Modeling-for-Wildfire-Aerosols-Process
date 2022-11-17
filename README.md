@@ -29,5 +29,6 @@ The complete AOD data can be downloaded in the following way, and the sample AOD
 
 
 ## Usage  
+Codes are completed in R project. After cloning the repository, this project can be run with the ```Project.Rproj`` file. The codes can be successfully run in the "main.R" file. One can obtain the results after a short time running. In "main.R", the highest retained frequency N is set to 10 considering the computational time. However, N = 10 gives relatively poor results as shown in the "results" folder. I also upload the case when N = 20, which shows a much better performance. 
 
 ## Reproducibility
