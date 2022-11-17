@@ -1,7 +1,7 @@
 # Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process
 
 ## Environment
-The codes have been testing on the following environment
+The codes have been tested on the following environment
 ```
 R version 4.2.1 (2022-06-23)
 Platform: aarch64-apple-darwin20 (64-bit)
