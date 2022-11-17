@@ -34,3 +34,4 @@ The complete AOD data can be downloaded in the following way, and the sample AOD
 - The ```illustrative_figures.R```, ```simulation_study.R```, and ```application.R``` files need to be run line by line and they can be used seperatelly. 
 
 ## Reproducibility
+The figures and tables of the papaer can be reproduced
