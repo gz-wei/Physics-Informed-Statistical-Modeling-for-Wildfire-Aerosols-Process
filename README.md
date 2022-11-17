@@ -31,6 +31,6 @@ The complete AOD data can be downloaded in the following way, and the sample AOD
 ## Usage  
 - Codes are completed in R project. After cloning the repository, this project can be openned with the ```Project.Rproj``` file. 
 - The ```util.R``` file contains the required functions, and it does not give any results. 
-- The ```illustrative_figures.R```, ```simulation_study.R```, and ```application.R``` 
+- The ```illustrative_figures.R```, ```simulation_study.R```, and ```application.R``` should be run line by line and they can be used seperatelly. 
 
 ## Reproducibility
