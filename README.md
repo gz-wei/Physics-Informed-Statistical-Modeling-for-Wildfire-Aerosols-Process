@@ -22,7 +22,7 @@ ncdf4_1.19
 ```
 
 ## Data 
-The complete AOD data can be downloaded in the following way, and the sample AOD data (16.nc, 17.nc) are given at the [data](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/tree/main/data) folder for testing the codes. 
+The complete AOD data can be downloaded in the following websites, and the sample AOD data (16.nc, 17.nc) are given at the [data](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/tree/main/data) folder for testing the codes. 
 
 - GOES-16 AOD data: [https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false.](https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)
 - GOES-17 AOD data: [https://console.cloud.google.com/storage/browser/gcp-public-data-goes-17/ABI-L2-AODC?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false](https://console.cloud.google.com/storage/browser/gcp-public-data-goes-17/ABI-L2-AODC?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)
@@ -34,4 +34,7 @@ The complete AOD data can be downloaded in the following way, and the sample AOD
 - The ```illustrative_figures.R```, ```simulation_study.R```, and ```application.R``` files need to be run line by line and they can be used seperatelly. 
 
 ## Reproducibility
-The figures and tables of the papaer can be reproduced
+The figures and tables of the papaer can be reproduced in the following way.
+- ```illustrative_figures.R```: Figures 2, 5, 6.
+- ```simulation_study.R```: Figures 13, 14, 15 and Table 1. 
+- ```application.R```: Figures 8, 9, 10, 11, 12
