@@ -1,4 +1,4 @@
-# Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Propagation
+# Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process
 
 ## Environment
 The codes have been testing on the following environment
