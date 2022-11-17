@@ -7,7 +7,7 @@ R version 4.2.1 (2022-06-23)
 Platform: aarch64-apple-darwin20 (64-bit)
 Running under: macOS Monterey 12.5.1
 
-(packages required)
+(required packages)
 bnstruct_1.0.12 
 expm_0.999-6
 ggplot2_3.3.6  
