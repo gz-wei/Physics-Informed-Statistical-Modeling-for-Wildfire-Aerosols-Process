@@ -35,6 +35,6 @@ The complete AOD datasets can be downloaded in the following websites, and the s
 
 ## Reproducibility
 The figures and tables of the papaer can be reproduced in the following way.
-- [```illustrative_figures.R```](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/illustrative_figures.R): Figures 2, 5, 6.
-- [```simulation_study.R```](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/simulation_study.R): Figures 13, 14, 15 and Table 1. 
-- [```application.R```](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/application.R): Figures 8, 9, 10, 11, 12.
+- [illustrative_figures.R](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/illustrative_figures.R): Figures 2, 5, 6.
+- [simulation_study.R](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/simulation_study.R): Figures 13, 14, 15 and Table 1. 
+- [application.R](https://github.com/gz-wei/Physics-Informed-Statistical-Modeling-for-Wildfire-Aerosols-Process/blob/main/application.R): Figures 8, 9, 10, 11, 12.
