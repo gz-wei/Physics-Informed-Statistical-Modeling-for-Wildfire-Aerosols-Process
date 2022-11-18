@@ -29,7 +29,7 @@ The complete AOD datasets can be downloaded in the following websites, and the s
 
 
 ## Usage  
-- Codes are completed in R project. After cloning the repository, this project can be openned with the ```Project.Rproj``` file. ```[https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false.](https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)```
+- Codes are completed in R project. After cloning the repository, this project can be openned with the ```Project.Rproj``` file. [https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false.](https://console.cloud.google.com/storage/browser/gcp-public-data-goes-16/ABI-L2-AODC;tab=objects?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)
 - The ```util.R``` file contains the required functions, and it does not give any results. 
 - The ```illustrative_figures.R```, ```simulation_study.R```, and ```application.R``` files need to be run line by line and they can be used seperatelly. 
 
